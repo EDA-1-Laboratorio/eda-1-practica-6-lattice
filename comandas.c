@@ -125,6 +125,7 @@ int main() {
             printf("Saliendo...\n");
             break;
         default:
+            
             printf("Opcion no valida\n");
         }   
     } while (opcion != 5);
