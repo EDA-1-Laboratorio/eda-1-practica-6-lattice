@@ -7,7 +7,6 @@
  * evitando así el desperdicio de espacio que ocurre en colas lineales.
  */
 
-
 #ifndef CIRCULAR_QUEUE_H
 #define CIRCULAR_QUEUE_H
 
